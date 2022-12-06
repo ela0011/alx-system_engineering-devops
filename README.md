@@ -1,1 +1,1 @@
-update i am betty
+a script that creates an alias
